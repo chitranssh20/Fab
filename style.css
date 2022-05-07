@@ -2,6 +2,10 @@
 	margin: 0px;
 	padding: 0px;
 }
+a{
+	text-decoration: none;
+	color: white;
+}
 body{
 	background: black;
 	overflow-x: hidden;
